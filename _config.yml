@@ -21,6 +21,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ssushant
 github_username:  mitra-varuna
+google_analytics: UA-89314108-1
+disqus:
+    shortname: experimentalclojure-space
 
 # Build settings
 markdown: kramdown
