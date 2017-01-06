@@ -28,6 +28,7 @@ disqus:
 # Build settings
 markdown: kramdown
 theme: minima
+mathjax: true
 gems:
   - jekyll-feed
   - kramdown
