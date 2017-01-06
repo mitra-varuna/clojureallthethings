@@ -5,6 +5,7 @@ permalink: /about/
 comments: true
 use_math: true
 ---
+{% include math.html %}
 
 $$
 \begin{align*}
